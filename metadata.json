@@ -1,0 +1,5 @@
+{
+  "name": "StellarSight Night Sky Simulator",
+  "description": "An ultra-realistic interactive night sky simulation demonstrating the effects of different observational tools like Naked Eye, Binoculars, and Telescopes.",
+  "requestFramePermissions": []
+}
